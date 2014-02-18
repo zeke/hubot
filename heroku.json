@@ -1,2 +1,11 @@
 {
+    "templateName": "hubot",
+    "config": [
+        "HUBOT_CAMPFIRE_ACCOUNT",
+        "HUBOT_CAMPFIRE_TOKEN",
+        "HUBOT_CAMPFIRE_ROOMS"
+    ],
+    "addOns": [
+        "redistogo:nano"
+    ]
 }
