@@ -1,5 +1,6 @@
 {
     "templateName": "hubot",
+    "description": "A customizable, kegerator-powered life embetterment robot.",
     "config": [
         "HUBOT_CAMPFIRE_ACCOUNT",
         "HUBOT_CAMPFIRE_TOKEN",
