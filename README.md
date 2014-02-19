@@ -1,6 +1,7 @@
 # Hubot
 
-![http://cl.ly/image/0X0b0k062m2Q/deploy-button.png](https://debut.heroku.com/templates?json=https://github.com/JackCA/hubot)
+[![Deploy to Heroku](http://cl.ly/image/0X0b0k062m2Q/deploy-button.png)](https://debut.heroku.com/templates?json=https://github.com/JackCA/hubot)
+
 
 Hubot is a chat bot, modeled after GitHub's Campfire bot, hubot. He's pretty
 cool. He's extendable with
